@@ -22,8 +22,8 @@
 
   <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog.io/@frontjsw/React-003-%EC%98%81%ED%99%94-%EC%86%8C%EA%B0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80)](https://velog.io/@frontjsw)
-  [![Velog's GitHub stats](https://velog.io/@frontjsw/React-002-%EB%8B%A8%EC%9C%84-%EB%B3%80%ED%99%98%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)](https://velog.io/@frontjsw)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=frontjsw)](https://github.com/frontjsw/velog-readme-stats)
+
   
 </div>
   
