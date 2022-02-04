@@ -19,11 +19,12 @@
    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   </p>
-  <br/>
+
   <p align="center">
    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   </p>
+    <br/>
   
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
